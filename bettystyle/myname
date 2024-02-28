@@ -1,0 +1,16 @@
+#include <stdio.h>
+/*
+*program to print sum
+*
+*Return value is integer
+*/
+
+int main();
+
+{
+int a = 2, b = 3;
+int sum(a + b);
+{
+printf("%d, sum");
+}
+return:0;
